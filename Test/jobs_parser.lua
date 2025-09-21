@@ -1,1 +1,1 @@
-PrintTale(axe.job.list);
+PrintTable(axe.job.list);
